@@ -1,0 +1,12 @@
+{
+  "name": "OOCaller",
+  "version": "0.1",
+  "description": "Starts OpenOffice Writer with a given document stored on a WebDAV server.",
+  "browser_action": {
+    "default_icon": "oowriter.png"
+  },
+  "permissions": [],
+  "plugins": [
+    { "path": "npOOCaller.so", "public": true }
+  ]
+}

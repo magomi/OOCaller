@@ -1,0 +1,23 @@
+=============== WORK IN PROGRESS ===============
+================= NO WARRANTY! =================
+
+quick instructions
+  - get firebreath (http://www.firebreath.org/)
+  - copy the folder firebreath_project/OOCaller 
+    to your $FIREBREATH_HOME/projects folder
+  - follow the firebreath instructions to pre-
+    pare and compile the plugin
+  - copy the generated native plugin to the 
+    extension folder for your operating system
+  - follow the browser instructions to install
+    the extension
+  - check with the testplugin.html page if
+    the extension runs well (change the urls 
+    to your needs)
+
+for questions or recomendations please send me 
+an email at magomi+github@gmail.com or contact 
+me directly at github (http://github.com/magomi)
+
+================================================
+================================================
